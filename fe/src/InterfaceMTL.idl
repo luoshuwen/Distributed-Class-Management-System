@@ -1,0 +1,17 @@
+module CenterInterfaceFE
+{
+    typedef sequence<octet> re;
+    typedef sequence<string> str;
+    
+    interface InterfaceCenter;
+    
+    interface InterfaceCenter
+    {
+        string createTRecord (in string suc,in string mi,in string fn,in string ln,in string ad,in string ph,in string sp,in string lo);
+        string createSRecord (in string suc,in string mi,in string fn,in string ln,in boolean s,in str CourseRegistered);
+        string getRecordCounts(in string suc,in string mi);
+        string editRecord (in string suc,in string mi,in string recordID,in string fieldname,in str newvalue);
+        string MtransferRecord (in string suc,in string mid, in string rid, in string remoteName);
+        void print(in string mi);
+    }; 
+};

@@ -1,0 +1,21 @@
+SR30001	b	b	false	xxx|xxx|xxx
+TR30001	B	B	abcdefg~0000002	15140000002	xxx	MTL
+SR30002	e	e	false	xxx|xxx|xxx
+TR30002	E	E	abcdefg~0000005	15140000005	xxx	MTL
+TR00011	dzgdfg	fdzgfdg	zgddgdzg	288868826	dgfzgfg	MTL
+SR30010	dfdfzgfdz	gfdzgdg	false	2017-08-03--13:48:37
+SR30003	h	h	false	xxx|xxx|xxx
+TR30003	H	H	abcdefg~0000008	15140000008	xxx	MTL
+TR30004	K	K	abcdefg~0000011	15140000011	xxx	MTL
+SR30004	k	k	false	xxx|xxx|xxx
+TR30005	N	N	abcdefg~0000014	15140000014	xxx	MTL
+SR30005	n	n	false	xxx|xxx|xxx
+TR30006	Q	Q	abcdefg~0000017	15140000017	xxx	MTL
+SR30006	q	q	false	xxx|xxx|xxx
+TR30007	T	T	abcdefg~0000020	15140000020	xxx	MTL
+SR30007	t	t	false	xxx|xxx|xxx
+TR30008	W	W	abcdefg~0000023	15140000023	xxx	MTL
+SR30008	w	w	false	xxx|xxx|xxx
+TR30009	Z	Z	abcdefg~0000026	15140000026	xxx	MTL
+SR30009	z	z	false	xxx|xxx|xxx
+TR30010	dfgfg	zdgdg	dzgdgfdgfd	54564546	zdgfdg	MTL

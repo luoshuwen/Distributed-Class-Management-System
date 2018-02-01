@@ -1,0 +1,18 @@
+TR60001	C	C	abcdefg~0000003	15140000003	xxx	MTL
+SR60001	c	c	false	xxx|xxx|xxx
+TR60011	fdzhfh	fchxh	hfxhfh	256656656	fhfxhfhxdh	MTL
+TR60002	F	F	abcdefg~0000006	15140000006	xxx	MTL
+SR60002	f	f	false	xxx|xxx|xxx
+TR60010	regrdzg	fdzgfdz	dgdfzg	15656456	dgdgzg	MTL
+TR60003	I	I	abcdefg~0000009	15140000009	xxx	MTL
+SR60003	i	i	false	xxx|xxx|xxx
+TR60004	L	L	abcdefg~0000012	15140000012	xxx	MTL
+SR60004	l	l	false	xxx|xxx|xxx
+TR60005	O	O	abcdefg~0000015	15140000015	xxx	MTL
+SR60005	o	o	false	xxx|xxx|xxx
+TR60006	R	R	abcdefg~0000018	15140000018	xxx	MTL
+SR60006	r	r	false	xxx|xxx|xxx
+TR60007	U	U	abcdefg~0000021	15140000021	xxx	MTL
+SR60007	u	u	false	xxx|xxx|xxx
+TR60008	X	X	abcdefg~0000024	15140000024	xxx	MTL
+SR60008	x	x	false	xxx|xxx|xxx

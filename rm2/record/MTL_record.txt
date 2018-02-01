@@ -1,0 +1,18 @@
+TR00001	A	A	abcdefg~0000001	15140000001	xxx	MTL
+TR00002	D	D	abcdefg~0000004	15140000004	xxx	MTL
+TR00003	G	G	abcdefg~0000007	15140000007	xxx	MTL
+TR00004	J	J	abcdefg~0000010	15140000010	xxx	MTL
+TR00005	M	M	abcdefg~0000013	15140000013	xxx	MTL
+TR00006	P	P	abcdefg~0000016	15140000016	xxx	MTL
+TR00007	S	S	abcdefg~0000019	15140000019	xxx	MTL
+TR00008	V	V	abcdefg~0000022	15140000022	xxx	MTL
+TR00009	Y	Y	abcdefg~0000025	15140000025	xxx	MTL
+SR00001	a	a	false	xxx|xxx|xxx
+SR00002	d	d	false	xxx|xxx|xxx
+SR00003	g	g	false	xxx|xxx|xxx
+SR00004	j	j	false	xxx|xxx|xxx
+SR00005	m	m	false	xxx|xxx|xxx
+SR00006	p	p	false	xxx|xxx|xxx
+SR00007	s	s	false	xxx|xxx|xxx
+SR00008	v	v	false	xxx|xxx|xxx
+SR00009	y	y	false	xxx|xxx|xxx

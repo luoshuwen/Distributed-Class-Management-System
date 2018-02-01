@@ -1,0 +1,18 @@
+TR30001	B	B	abcdefg~0000002	15140000002	xxx	MTL
+TR30002	E	E	abcdefg~0000005	15140000005	xxx	MTL
+TR30003	H	H	abcdefg~0000008	15140000008	xxx	MTL
+TR30004	K	K	abcdefg~0000011	15140000011	xxx	MTL
+TR30005	N	N	abcdefg~0000014	15140000014	xxx	MTL
+TR30006	Q	Q	abcdefg~0000017	15140000017	xxx	MTL
+TR30007	T	T	abcdefg~0000020	15140000020	xxx	MTL
+TR30008	W	W	abcdefg~0000023	15140000023	xxx	MTL
+TR30009	Z	Z	abcdefg~0000026	15140000026	xxx	MTL
+SR30001	b	b	false	xxx|xxx|xxx
+SR30002	e	e	false	xxx|xxx|xxx
+SR30003	h	h	false	xxx|xxx|xxx
+SR30004	k	k	false	xxx|xxx|xxx
+SR30005	n	n	false	xxx|xxx|xxx
+SR30006	q	q	false	xxx|xxx|xxx
+SR30007	t	t	false	xxx|xxx|xxx
+SR30008	w	w	false	xxx|xxx|xxx
+SR30009	z	z	false	xxx|xxx|xxx

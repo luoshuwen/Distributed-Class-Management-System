@@ -1,0 +1,38 @@
+TR00001	A	A	abcdefg~0000001	15140000001	xxx	MTL
+SR00001	a	a	false	xxx|xxx|xxx
+TR00002	D	D	abcdefg~0000004	15140000004	xxx	MTL
+SR00002	d	d	false	xxx|xxx|xxx
+SR00020	bca	fef	false	2017-08-04--11:21:39
+SR00019	bca	fef	false	2017-08-04--11:21:36
+SR00018	bca	fef	false	2017-08-04--11:21:33
+SR00029	bca	fef	false	2017-08-04--11:22:03
+SR00015	bca	fef	false	2017-08-04--11:21:24
+SR00026	bca	fef	false	2017-08-04--11:21:56
+SR00014	bca	fef	false	2017-08-04--11:21:21
+SR00025	bca	fef	false	2017-08-04--11:21:53
+SR00017	bca	fef	false	2017-08-04--11:21:30
+SR00028	bca	fef	false	2017-08-04--11:22:02
+SR00016	bca	fef	false	2017-08-04--11:21:27
+SR00027	bca	fef	false	2017-08-04--11:21:59
+SR00011	bca	fef	false	2017-08-04--11:21:12
+SR00022	bca	fef	false	2017-08-04--11:21:44
+SR00010	bca	fef	false	2017-08-04--11:21:07
+SR00021	bca	fef	false	2017-08-04--11:21:42
+SR00013	bca	fef	false	2017-08-04--11:21:18
+SR00024	bca	fef	false	2017-08-04--11:21:50
+SR00012	bca	fef	false	2017-08-04--11:21:15
+SR00023	bca	fef	false	2017-08-04--11:21:47
+TR00003	G	G	abcdefg~0000007	15140000007	xxx	MTL
+SR00003	g	g	false	xxx|xxx|xxx
+TR00004	J	J	abcdefg~0000010	15140000010	xxx	MTL
+SR00004	j	j	false	xxx|xxx|xxx
+TR00005	M	M	abcdefg~0000013	15140000013	xxx	MTL
+SR00005	m	m	false	xxx|xxx|xxx
+SR00006	p	p	false	xxx|xxx|xxx
+TR00006	P	P	abcdefg~0000016	15140000016	xxx	MTL
+SR00007	s	s	false	xxx|xxx|xxx
+TR00007	S	S	abcdefg~0000019	15140000019	xxx	MTL
+SR00008	v	v	false	xxx|xxx|xxx
+TR00008	V	V	abcdefg~0000022	15140000022	xxx	MTL
+SR00009	y	y	false	xxx|xxx|xxx
+TR00009	Y	Y	abcdefg~0000025	15140000025	xxx	MTL
